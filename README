@@ -1,7 +1,1 @@
-echo "# Swd-BE" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/K16Trung/Swd-BE.git
-git push -u origin main
+BE Project with c#
